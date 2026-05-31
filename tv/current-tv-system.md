@@ -2,30 +2,64 @@
 
 ## Overview
 
-One of the first fully functional systems within HospitalityLab is a small terrestrial television distribution setup.
+This is the current terrestrial television distribution setup used within HospitalityLab.
 
-The current installation consists of a small TV antenna, a mast-mounted amplifier, a central distribution unit and a basic splitter.
+The installation is relatively simple but fully functional and provides a solid platform for experimentation, testing and future expansion.
 
-Despite its simplicity, the system is fully operational and provides a good platform for experimentation.
+Despite using a mix of low-cost and recovered equipment, the system performs surprisingly well and serves as the foundation for ongoing television infrastructure experiments.
 
-## Current Situation
+## Signal Path
 
-The basic setup is working reliably.
+TV Antenna  
+↓  
+Johansson 7328 Mast Amplifier  
+↓  
+FRPRO EVO HD  
+↓  
+4-Way RF Splitter  
+↓  
+Televisions
 
-Recently I started experimenting with several second-hand Televes units that were recovered from previous installations.
+## Equipment
 
-Unfortunately, these units are not being particularly cooperative.
+### TV Antenna
 
-Configuration is proving more complicated than expected and documentation is often incomplete or difficult to find.
+A low-cost terrestrial TV antenna purchased from Amazon for approximately €12.
 
-As a result, a significant amount of testing and trial-and-error is currently required.
+Despite its price, reception quality has been surprisingly good and more than sufficient for current testing.
 
-## Why?
+### Johansson 7328
 
-While IPTV is often the focus today, traditional television distribution systems are still found in many hospitality environments.
+A mast-mounted amplifier used to boost the received terrestrial television signal before distribution.
 
-Understanding how these systems work remains an interesting challenge and an important part of HospitalityLab.
+### FRPRO EVO HD
 
-## Status
+A programmable television amplifier recovered from a previous installation.
 
-🚧 Ongoing experiments with Televes equipment & upgrade the current setup.
+The unit was originally considered faulty due to a power supply issue. The temporary wiring visible on the installation is part of the current repair.
+
+After repairing the power supply, the unit became operational again and now serves as the central component of the installation.
+
+### 4-Way RF Splitter
+
+A simple four-way RF splitter used to distribute the signal to multiple outputs.
+
+## Current Status
+
+The system is fully operational and currently serves as the primary television testing platform within HospitalityLab.
+
+Additional second-hand Televes equipment is currently being evaluated. While some modules show promise, others have proven less cooperative than expected and require further investigation.
+
+## Future Work
+
+- Document all equipment in detail
+- Create a complete signal flow diagram
+- Continue testing Televes modules
+- Explore hospitality-oriented television distribution systems
+- Improve and expand the current installation
+
+## Current Setup
+
+![Current TV Setup](photos/IMG_0261.jpeg)
+
+*Current HospitalityLab terrestrial television distribution setup. The installation currently consists of a low-cost TV antenna, a Johansson 7328 mast amplifier, a repaired FRPRO EVO HD unit and a 4-way RF splitter.*
