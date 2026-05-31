@@ -13,6 +13,7 @@ The goal is to design, build and document the complete technology ecosystem of a
 - Electrical Infrastructure
 - Automation
 - Hospitality Operations
+- And more...
   
 ## Why?
 
