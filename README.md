@@ -24,3 +24,9 @@ I wanted to understand how the different technologies behind hotels and campings
 ## Status
 
 🚧 Work in Progress
+
+## Contact
+
+For questions, suggestions or discussions:
+
+- Email: hospitalitylab.project@gmail.com
