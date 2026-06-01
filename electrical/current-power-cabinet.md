@@ -62,6 +62,6 @@ Always follow applicable regulations, use appropriate protective equipment and e
 
 ## Current Installation
 
-![Current Power Cabinet](photos/jpeg)
+![Current Power Cabinet](photos/BCE3FEC9-602E-45BF-AEB7-2E57C196B56A_1_105_c.jpeg)
 
 Main power distribution cabinet currently under development within HospitalityLab. The installation is based on a three-phase 230/400 V distribution system and consists primarily of second-hand equipment acquired for experimentation and learning purposes.
