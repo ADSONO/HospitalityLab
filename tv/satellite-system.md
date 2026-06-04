@@ -38,6 +38,20 @@ Testing is currently limited by the existing LNB configuration.
 
 A dedicated satellite finder has been ordered to simplify dish alignment and troubleshooting.
 
+## New Equipment
+
+### Quattro LNB
+
+![Quattro LNB](photos/IMG_0287.jpeg)
+
+*Quattro LNB intended to replace the temporary single-output LNB currently used for testing.*
+
+### Coaxial Cable Preparation
+
+![Coaxial Cables](photos/IMG_0286.jpeg)
+
+*50 m coaxial cable cut into multiple sections in preparation for the future multiswitch installation.*
+
 ## Current Status
 
 🚧 Work in Progress
