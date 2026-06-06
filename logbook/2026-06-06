@@ -1,0 +1,67 @@
+# 2026-06-06
+
+## Today
+
+Received the satellite finder and spent some time learning how to use it.
+
+The learning curve was surprisingly short and the tool quickly proved useful for satellite alignment and signal verification.
+
+## Satellite Infrastructure
+
+Using the satellite finder, I tested both available LNBs and continued working on the satellite installation.
+
+After several adjustments, I managed to achieve a very good signal on Astra.
+
+One interesting result was that the dish performed surprisingly well despite being mounted on a temporary tripod setup only about 1.5 meters above ground level.
+
+### Signal Verification
+
+The signal was verified using the receiver after alignment.
+
+![Astra Signal](tv/photos/IMG_0298.jpeg)
+
+*Signal information displayed during Astra alignment and testing.*
+
+This confirms that the dish alignment, cabling and LNB installation are functioning correctly.
+
+## Learning
+
+Today was less about installing equipment and more about understanding how the equipment actually works.
+
+The satellite finder made troubleshooting and alignment significantly easier compared to previous attempts.
+
+## Software
+
+Started gathering various code snippets, prototypes and unfinished projects that had accumulated over time.
+
+The objective is to consolidate everything into a cleaner and more maintainable structure before beginning development of the web platform.
+
+## Network Infrastructure
+
+Continued planning the future network architecture.
+
+Work focused on organizing network segments and defining the overall VLAN strategy that will eventually support the different HospitalityLab systems.
+
+Topics currently under consideration include:
+
+- Management network
+- Infrastructure services
+- Television systems
+- Automation systems
+- Future guest networks
+
+## Thoughts
+
+Today felt like an important step forward.
+
+The satellite infrastructure is becoming more stable and predictable, while work has also started on organizing the software and network foundations of the project.
+
+For the first time, HospitalityLab is beginning to feel like a complete ecosystem rather than a collection of separate experiments.
+
+## Next
+
+- Continue exploring the Televes platform
+- Improve and validate the satellite installation
+- Begin development of the web platform
+- Continue building the network infrastructure
+- Continue developing the electrical and automation projects
