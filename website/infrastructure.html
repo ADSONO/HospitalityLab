@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Infrastructure - HospitalityLab</title>
+  <meta name="description" content="A garage-built laboratory exploring hospitality technologies: TV, satellite, networking, electrical systems, automation and software." />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<header class="site-header">
+  <nav class="nav container">
+    <a href="index.html" class="logo">
+      <span class="logo-mark">HL</span>
+      <span>HospitalityLab</span>
+    </a>
+    <button class="nav-toggle" aria-label="Toggle navigation">
+      <span></span><span></span><span></span>
+    </button>
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="infrastructure.html">Infrastructure</a>
+      <a href="logbook.html">Logbook</a>
+      <a href="contact.html">Contact</a>
+      <a class="nav-button" href="https://github.com/ADSONO/HospitalityLab" target="_blank" rel="noopener">GitHub</a>
+    </div>
+  </nav>
+</header>
+
+<main class="page-main">
+  <section class="section container page-hero">
+    <p class="eyebrow">Infrastructure</p>
+    <h1>Current Systems</h1>
+    <p class="hero-text small">
+      A living overview of the physical and software systems currently being explored inside HospitalityLab.
+    </p>
+  </section>
+
+  <section class="section dark-section">
+    <div class="container">
+      <div class="system-list">
+        <article class="system-panel">
+          <div>
+            <p class="eyebrow">TV & Satellite</p>
+            <h2>Terrestrial and satellite distribution.</h2>
+            <p>
+              The TV setup currently includes a small terrestrial antenna, Johansson 7328 mast amplifier,
+              FRPRO EVO HD programmable amplifier and a 4-way RF splitter. The satellite side is based around
+              a 100 cm dish, quattro LNB, Televes NevoSwitch and Televes T.0X modules.
+            </p>
+          </div>
+          <div class="status-card">
+            <span>Current status</span>
+            <strong>Operational / Experimental</strong>
+          </div>
+        </article>
+
+        <article class="system-panel">
+          <div>
+            <p class="eyebrow">Network</p>
+            <h2>Routing, switching and VLAN planning.</h2>
+            <p>
+              Current equipment includes MikroTik, Ubiquiti UniFi, Ubiquiti Edge, Fortinet and fiber distribution gear.
+              The main router decision is still open between a FortiGate 60F and a MikroTik RB5009.
+            </p>
+          </div>
+          <div class="status-card">
+            <span>Current status</span>
+            <strong>Planning</strong>
+          </div>
+        </article>
+
+        <article class="system-panel">
+          <div>
+            <p class="eyebrow">Electrical</p>
+            <h2>Small-scale power cabinet.</h2>
+            <p>
+              The electrical cabinet is based on second-hand equipment and is currently under construction.
+              The project is based in France and follows a European 230/400 V three-phase context.
+            </p>
+          </div>
+          <div class="status-card">
+            <span>Current status</span>
+            <strong>Under construction</strong>
+          </div>
+        </article>
+
+        <article class="system-panel">
+          <div>
+            <p class="eyebrow">Automation</p>
+            <h2>PLC-based automation experiments.</h2>
+            <p>
+              Automation experiments are planned around a Schneider Modicon M221 and a Siemens S7-1200,
+              with future use cases around lighting, monitoring, alarms and building automation.
+            </p>
+          </div>
+          <div class="status-card">
+            <span>Current status</span>
+            <strong>Early stage</strong>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section container">
+    <div class="disclaimer">
+      <h2>Safety & disclaimer</h2>
+      <p>
+        HospitalityLab is a personal experimental project. Installations and prototypes are intended for learning
+        and documentation purposes only. They should not be considered professional advice, production-ready
+        installations or examples of regulatory compliance.
+      </p>
+      <p>Electricity, RF systems and infrastructure work can be dangerous. Safety comes first.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container footer-content">
+    <p>© 2026 HospitalityLab. Personal experimental project.</p>
+    <p>Built from a garage lab in France.</p>
+  </div>
+</footer>
+<script src="js/main.js"></script>
+</body></html>
