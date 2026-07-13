@@ -1,32 +1,59 @@
 # HospitalityLab
 
-HospitalityLab is probably one of the most over-engineered personal projects I could imagine.
+**Explore. Build. Share.**
 
-The goal is to design, build and document the complete technology ecosystem of a modern hotel and camping business from a home-lab environment.
+HospitalityLab is a personal technical laboratory dedicated to exploring, building and documenting the technologies behind the hospitality industry.
+
+From networking and television distribution to fire safety systems, IP telephony and software development, the project aims to understand how modern hospitality infrastructure works through real equipment, experimentation and documentation.
+
+🌍 **Official Website:** https://hospitalitylabproject.com
+
+---
 
 ## Areas
 
-- Property Management Systems (PMS)
-- Booking Systems
-- Networking
-- Television & Satellite Distribution
-- Electrical Infrastructure
-- Automation
-- Hospitality Operations
-- And more...
-  
+- 📡 Television & Satellite Distribution
+- 🌐 Networking & Infrastructure
+- ☎️ IP Telephony
+- 🔥 Fire Safety Systems
+- ⚡ Electrical Systems
+- 🤖 Industrial Automation
+- 💻 Software Development
+- 🏨 Hospitality Technologies
+
+---
+
+## What you'll find
+
+- 📚 Technical documentation
+- 📦 Equipment database
+- 🛠️ Real-world projects
+- 📝 Development logbook
+- 🎥 YouTube videos
+- 👥 Future community platform
+
+---
+
 ## Why?
 
-Because building a website and playing with a network switch wasn't enough.
+HospitalityLab started with a simple question:
 
-I wanted to understand how the different technologies behind hotels and campings work together, from booking systems and PMS software to networking, television distribution and electrical infrastructure.
+**How does all the technology behind a modern hotel actually work?**
 
-## Status
+Rather than studying each technology separately, the goal is to recreate and document a complete hospitality environment, one system at a time.
 
-🚧 Work in Progress
+---
+
+## Project Status
+
+🚧 **Actively under development**
+
+New equipment, documentation, videos and features are added regularly.
+
+---
 
 ## Contact
 
-For questions, suggestions or discussions:
+📧 hospitalitylab.project@gmail.com
 
-- Email: hospitalitylab.project@gmail.com
+🌍 https://hospitalitylabproject.com
